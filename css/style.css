@@ -37,6 +37,10 @@ menu {
     display: none;
 }
 
+menu.show {
+    display: block;
+}
+
 menu > ul {
     list-style-type: none;
 }
